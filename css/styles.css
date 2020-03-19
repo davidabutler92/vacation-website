@@ -1,6 +1,17 @@
 .jumbotron {
-  color: blue;
-  font-weight: bold;
+  color: black;
+  font-weight: bolder;
   text-align: center;
+  font-style: oblique;
+  text-decoration: underline;
 
+}
+
+blockquote {
+  text-align: center;
+  font-style: italic;
+}
+
+p {
+  margin: 25px;
 }
