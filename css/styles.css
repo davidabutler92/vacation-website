@@ -1,0 +1,77 @@
+h1 {
+  color: rgb(238, 132, 224);
+  text-align: center;
+  font-weight: 700;
+  font-size: 4em;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+}
+
+.best { 
+  color: pink;
+  font-weight: bold;
+  font-style: oblique
+}
+
+.best2 {
+  color: 
+  
+  rgb(94, 207, 41);
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.fancy { 
+  color: blue;
+}
+
+.greeny { 
+  color: green;
+}
+
+.highlight {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+}
+
+.float {
+  float: center;
+  border: 3px;
+  padding: 25px;
+}
+
+.right {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 3px solid pink;
+  padding: 50px;
+  float: center;
+}
+
+.right2 {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  border: 3px solid rgb(94, 207, 41);
+  padding: 50px;
+  float: center;
+}
